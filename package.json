@@ -55,5 +55,5 @@
   "peerDependencies": {
      "@angular/compiler": "^14.0.0",
      "@angular/compiler-cli": "^14.0.0"
-  },
+  }
 }
